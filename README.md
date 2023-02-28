@@ -1,5 +1,5 @@
 # Dieta-Academia
-API da aplicação de controle de gastos pessoais.
+API da aplicação de controle de dieta e treino.
 
 ## Endpoints
 
